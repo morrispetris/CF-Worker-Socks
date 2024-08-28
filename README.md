@@ -3,6 +3,8 @@
 
 Cloudflare Worker 代理工具
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/morrispetris/CF-Worker-Socks)
+
 ### 使用 ###
 * 将worler.js里passwd的变量值修改后复制全部内容到Worker部署.
 * 在程序目录下面新建一个config.txt文件, 输入类似下面的配置内容:
